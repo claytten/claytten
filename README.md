@@ -1,4 +1,4 @@
-### Hi, I'm Aji. I'm a web developer enthusiast 🙌
+### I'm a web developer enthusiast 🙌
 ## I love to learn and practice new thing while coding. I am interested to involved in Team experience.
 
 - :sunglasses: I'm Fullstack developer, just kidding xD. I Prefer Backend Section
